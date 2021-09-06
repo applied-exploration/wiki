@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "de09dd9153306ea9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8f4366bff413023",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Geometric analogies/Graph - Localist representation.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac69673ba53f7964",
+    "type": "split",
+    "children": [
+      {
+        "id": "f50262599c49315e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6c34348573ad938",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b0bf4f40425deaae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "59bdb61b65f072ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "20c56ad3951520b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce7fa54bdf7ce714",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Geometric analogies/Graph - Localist representation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d8f4366bff413023",
+  "lastOpenFiles": [
+    "Geometric analogies/Untitled.md",
+    "Math analogies/Untitled.md",
+    "Computational analogies/Untitled.md",
+    "Computational analogies/Compression.md",
+    "Computational analogies/Pattern matching.md",
+    "Computational analogies/Fast Fourier Transform.md",
+    "Artifical Neural Netwoks/Neural Networks.md",
+    "Artifical Neural Netwoks/Untitled.md",
+    "Artifical Neural Netwoks/Activiation functions.md",
+    "Math analogies/Isomporhism.md"
+  ]
+}

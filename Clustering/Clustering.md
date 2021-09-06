@@ -1,0 +1,1 @@
+Split space into areas - Based on distance between points
