@@ -1,7 +1,7 @@
-- Recurrence
+[[Recurrence]]
 
 
-- Invariance
+[[Invariance]]
 
 
 - Algorithmic complexity

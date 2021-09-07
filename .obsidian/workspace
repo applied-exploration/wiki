@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d8f4366bff413023",
+        "id": "78eaacdaf979077b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Geometric analogies/Graph - Localist representation.md",
+            "file": "Artifical Neural Netwoks/Residual Connections.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geometric analogies/Graph - Localist representation.md",
+                "file": "Artifical Neural Netwoks/Residual Connections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d8f4366bff413023",
+  "active": "78eaacdaf979077b",
   "lastOpenFiles": [
-    "Geometric analogies/Untitled.md",
-    "Math analogies/Untitled.md",
-    "Computational analogies/Untitled.md",
-    "Computational analogies/Compression.md",
-    "Computational analogies/Pattern matching.md",
-    "Computational analogies/Fast Fourier Transform.md",
+    "Artifical Neural Netwoks/Residual Connections.md",
+    "_images/Pasted image 20210907152723.png",
+    "Artifical Neural Netwoks/Modularity in Neural Networks.md",
+    "Artifical Neural Netwoks/Neural Architecture Search.md",
     "Artifical Neural Netwoks/Neural Networks.md",
-    "Artifical Neural Netwoks/Untitled.md",
     "Artifical Neural Netwoks/Activiation functions.md",
-    "Math analogies/Isomporhism.md"
+    "Artifical Neural Netwoks/Transformers.md",
+    "Artifical Neural Netwoks/Untitled.md",
+    "Neural Arhchitecture Search.md",
+    "Computational analogies/Compression.md"
   ]
 }
