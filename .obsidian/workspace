@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Artifical Neural Netwoks/Residual Connections.md",
+            "file": "Geometric analogies/Distributed - Localist representation.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artifical Neural Netwoks/Residual Connections.md",
+                "file": "Geometric analogies/Distributed - Localist representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "78eaacdaf979077b",
   "lastOpenFiles": [
+    "Geometric analogies/Distributed - Localist representation.md",
+    "Geometric analogies/Distributed representation.md",
+    "Geometric analogies/Graph - Localist representation.md",
     "Artifical Neural Netwoks/Residual Connections.md",
     "_images/Pasted image 20210907152723.png",
     "Artifical Neural Netwoks/Modularity in Neural Networks.md",
     "Artifical Neural Netwoks/Neural Architecture Search.md",
     "Artifical Neural Netwoks/Neural Networks.md",
     "Artifical Neural Netwoks/Activiation functions.md",
-    "Artifical Neural Netwoks/Transformers.md",
-    "Artifical Neural Netwoks/Untitled.md",
-    "Neural Arhchitecture Search.md",
-    "Computational analogies/Compression.md"
+    "Artifical Neural Netwoks/Transformers.md"
   ]
 }
