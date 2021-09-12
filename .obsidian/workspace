@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "de09dd9153306ea9",
+    "type": "split",
+    "children": [
+      {
+        "id": "78eaacdaf979077b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Linear Algebra/Matrix transformations.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac69673ba53f7964",
+    "type": "split",
+    "children": [
+      {
+        "id": "f50262599c49315e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6c34348573ad938",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b0bf4f40425deaae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "59bdb61b65f072ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "20c56ad3951520b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce7fa54bdf7ce714",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linear Algebra/Matrix transformations.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "78eaacdaf979077b",
+  "lastOpenFiles": [
+    "Linear Algebra/Matrix transformations.md",
+    "Computational analogies/Invariance.md",
+    "Linear Algebra/Dot product.md",
+    "Computational analogies/Compression.md",
+    "Math analogies/Isomporhism.md",
+    "Artifical Neural Netwoks/Representation learning.md",
+    "Artifical Neural Netwoks/Neural Networks.md",
+    "Math analogies/Symmetry.md",
+    "Math analogies/Untitled.md",
+    "Pasted image 20210910203508.png"
+  ]
+}
