@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linear Algebra/Matrix transformations.md",
+            "file": "Reinforcement Learning.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Algebra/Matrix transformations.md",
+                "file": "Reinforcement Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "78eaacdaf979077b",
   "lastOpenFiles": [
-    "Linear Algebra/Matrix transformations.md",
-    "Linear Algebra/Dot product.md",
-    "Linear Algebra/Determinant.md",
+    "Reinforcement Learning.md",
+    "Sequence Learning.md",
+    "Artifical Neural Netwoks/Recurrent Neural Networks.md",
+    "Artifical Neural Netwoks/Modularity in Neural Networks.md",
     "Artifical Neural Netwoks/Neural Networks.md",
-    "Computational analogies/Search.md",
-    "Optimization/Optimization.md",
-    "Geometric analogies/Distributed - Localist representation.md",
-    "Geometric analogies/Distributed representation.md",
-    "Geometric analogies/Graph - Localist representation.md",
-    "Artifical Neural Netwoks/Residual Connections.md"
+    "Artifical Neural Netwoks/Residual Connections.md",
+    "Computational analogies/Convolution.md",
+    "Artifical Neural Netwoks/Representation learning.md",
+    "Computational analogies/Recurrence (Recursion).md",
+    "(Machine) Learning.md"
   ]
 }

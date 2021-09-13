@@ -5,5 +5,8 @@ Because of normalization, the weights of the intermediary layer are always gonna
 This makes it possible to train deeper ANN architectures, as it also helps with the vanishing gradient problem.
 
 **Modularity**
-It's a primitive step to make the ANN somewhat modular, as it can reduce the number of layers "in actual use".
+It's a primitive step to make the ANN somewhat modular, as it can reduce the number of layers "in actual use", aka it can make a network smaller.
 [[Modularity in Neural Networks]]
+
+**Recursion**
+Residual Connections can also enable [[Recursion]] within feed-forward [[Neural Networks]].

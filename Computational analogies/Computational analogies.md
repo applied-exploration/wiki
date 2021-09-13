@@ -1,4 +1,4 @@
-[[Recurrence]]
+[[Recursion]]
 
 
 [[Invariance]]
