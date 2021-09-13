@@ -1,3 +1,5 @@
+The process of finding an optimal solution.
+
 Search vs optimization?
 Exact vs approximation
 

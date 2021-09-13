@@ -75,7 +75,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -83,19 +83,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "78eaacdaf979077b",
   "lastOpenFiles": [
     "Linear Algebra/Matrix transformations.md",
-    "Computational analogies/Invariance.md",
     "Linear Algebra/Dot product.md",
-    "Computational analogies/Compression.md",
-    "Math analogies/Isomporhism.md",
-    "Artifical Neural Netwoks/Representation learning.md",
+    "Linear Algebra/Determinant.md",
     "Artifical Neural Netwoks/Neural Networks.md",
-    "Math analogies/Symmetry.md",
-    "Math analogies/Untitled.md",
-    "Pasted image 20210910203508.png"
+    "Computational analogies/Search.md",
+    "Optimization/Optimization.md",
+    "Geometric analogies/Distributed - Localist representation.md",
+    "Geometric analogies/Distributed representation.md",
+    "Geometric analogies/Graph - Localist representation.md",
+    "Artifical Neural Netwoks/Residual Connections.md"
   ]
 }
