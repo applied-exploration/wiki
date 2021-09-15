@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reinforcement Learning.md",
+            "file": "Computational analogies/Convolution.md",
             "mode": "source"
           }
         }
@@ -68,14 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinforcement Learning.md",
+                "file": "Computational analogies/Convolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -83,20 +83,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "78eaacdaf979077b",
   "lastOpenFiles": [
-    "Reinforcement Learning.md",
-    "Sequence Learning.md",
-    "Artifical Neural Netwoks/Recurrent Neural Networks.md",
-    "Artifical Neural Netwoks/Modularity in Neural Networks.md",
-    "Artifical Neural Netwoks/Neural Networks.md",
-    "Artifical Neural Netwoks/Residual Connections.md",
     "Computational analogies/Convolution.md",
-    "Artifical Neural Netwoks/Representation learning.md",
-    "Computational analogies/Recurrence (Recursion).md",
-    "(Machine) Learning.md"
+    "Math analogies/Correlation.md",
+    "Computational analogies/Fourier Transform.md",
+    "Math analogies/Untitled.md",
+    "Computational analogies/Compression.md",
+    "Math analogies/Inverse function.md",
+    "Computational analogies/Abstraction.md",
+    "Computational analogies/Hash functions.md",
+    "Linear Algebra/Pseudo Inverse.md",
+    "Deep Learning/(Machine) Learning.md"
   ]
 }

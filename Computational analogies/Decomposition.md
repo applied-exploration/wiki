@@ -1,3 +1,4 @@
-Math analogy: [[Factorization]]
+Breaking down into building blocks.
+Converting between different representations.
 
-Converting between different representations
+Math analogy: [[Factorization]]

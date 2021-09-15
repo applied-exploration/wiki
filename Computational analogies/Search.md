@@ -1,4 +1,4 @@
-Search is a way to find an element in a collection or a solution to a problem.
+Search is a way to find an element in a collection or a [[Solution]] to a problem.
 There's no search without an underlying data structure that provides the structure of the search (1D - list, nD - graphs).
 
 Search generally needs information (heuristic) directing the search. 
