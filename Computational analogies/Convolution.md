@@ -1,5 +1,5 @@
 A technique for determining the most important portions of a signal.
-Used in machine learning for [[feature extraction]]
+Used in machine learning for [[Feature learning]]
 
 A special case of a reduce function.
 
