@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Machine learning/Deep Learning/Feature learning.md",
+            "file": "Computational analogies/Fourier Transform.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine learning/Deep Learning/Feature learning.md",
+                "file": "Computational analogies/Fourier Transform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "78eaacdaf979077b",
   "lastOpenFiles": [
-    "Machine learning/Deep Learning/feature learning.md",
-    "Machine learning/Deep Learning/Representation learning.md",
-    "feature learning.md",
-    "Machine learning/Deep Learning/Bottleneck.md",
-    "Machine learning/Deep Learning/Autoencoder.md",
+    "Computational analogies/Fourier Transform.md",
     "Computational analogies/Convolution.md",
-    "feature extraction.md",
-    "Machine learning/Deep Learning/autoencoder.md",
-    "Machine learning/Deep Learning/Attention.md",
-    "Machine learning/Deep Learning/Untitled.md"
+    "Linear Algebra/Dot product.md",
+    "summarize.md",
+    "Linear Algebra/Determinant.md",
+    "Computational analogies/Composability - Modularity.md",
+    "Computational analogies/Invariance.md",
+    "Math analogies/Symmetry.md",
+    "Math analogies/Isomporhism.md",
+    "Math analogies/Inverse function.md"
   ]
 }

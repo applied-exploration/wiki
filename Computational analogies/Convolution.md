@@ -1,6 +1,8 @@
 A technique for determining the most important portions of a signal.
 Used in machine learning for [[Feature learning]]
 
+A frequency filter.
+
 A special case of a reduce function.
 
 Measures [[correlation]] between two functions. (A function and a reversed function to be precise)
@@ -14,6 +16,10 @@ https://setosa.io/ev/image-kernels/
 
 The effect of convolution is to smear the signal in time according to the recipe provided by the response function
 http://ugastro.berkeley.edu/infrared/ir_clusters/convolution.pdf
+
+**[[Dot product]]**
+compmute the dot product between two vectors, then shift one in time and compute the dot again, and so on...
+
 
 [[Fourier Transform]]
 [[Pattern matching]]
