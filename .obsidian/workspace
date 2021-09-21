@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "78eaacdaf979077b",
+        "id": "503f6e3e2ef3ff03",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computational analogies/Fourier Transform.md",
+            "file": "Biological analogies/Coupling.md",
             "mode": "source"
           }
         }
@@ -68,12 +69,10 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computational analogies/Fourier Transform.md",
+                "file": "Biological analogies/Coupling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -85,17 +84,16 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "78eaacdaf979077b",
   "lastOpenFiles": [
-    "Computational analogies/Fourier Transform.md",
-    "Computational analogies/Convolution.md",
-    "Linear Algebra/Dot product.md",
-    "summarize.md",
-    "Linear Algebra/Determinant.md",
-    "Computational analogies/Composability - Modularity.md",
-    "Computational analogies/Invariance.md",
-    "Math analogies/Symmetry.md",
-    "Math analogies/Isomporhism.md",
-    "Math analogies/Inverse function.md"
+    "Biological analogies/Coupling.md",
+    "Geometric analogies/Map.md",
+    "Geometric analogies/Distributed - Localist representation.md",
+    "Geometric analogies/Decision boundaries.md",
+    "Geometric analogies/Geometric analogies.md",
+    "Biological analogies/Self-Organisation.md",
+    "Biological analogies/Reaction-Diffusion Systems.md",
+    "Biological analogies/Evolutionary Strategies.md",
+    "Untitled.md",
+    "Machine learning/Natural Language Processing/Feature Extraction and Embeddings d51d18eff4274a16a763799be5494df7.md"
   ]
 }
